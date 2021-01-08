@@ -1,2 +1,2 @@
 # SearchRotatedArray
-Sunday, December 27, 2020
+Thursday, January 7, 2021
