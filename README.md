@@ -1,2 +1,2 @@
 # SearchRotatedArray
-Monday, January 3, 2022
+Thursday, January 6, 2022
