@@ -1,2 +1,2 @@
 # SearchRotatedArray
-Wednesday, September 14, 2022
+Thursday, September 15, 2022
